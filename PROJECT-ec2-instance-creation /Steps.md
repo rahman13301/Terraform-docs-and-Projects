@@ -57,6 +57,7 @@ terraform destroy
 ```
 <img width="1284" height="528" alt="image" src="https://github.com/user-attachments/assets/77503b0a-8c98-4ab3-8211-58990c016bfa" />
 <img width="934" height="368" alt="image" src="https://github.com/user-attachments/assets/a552eff7-b68d-4cb5-b196-b68b197cbe18" />
+<img width="1397" height="176" alt="image" src="https://github.com/user-attachments/assets/fba42aea-03bb-4ec8-b610-098976a21f78" />
 
 
 Be cautious when using terraform destroy as it will delete resources as specified in your Terraform configuration.
