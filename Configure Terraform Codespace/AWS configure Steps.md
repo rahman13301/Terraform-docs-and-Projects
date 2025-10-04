@@ -47,6 +47,10 @@ aws configure
 
 <img width="852" height="330" alt="image" src="https://github.com/user-attachments/assets/4ef6ca36-e748-491d-a5a4-73995703ee41" />
 
+- Codesapce is communicating with AWS
+<img width="862" height="50" alt="image" src="https://github.com/user-attachments/assets/19af74b5-aca4-4685-a61b-171c23c0584f" />
+
+
 It will prompt you to enter your AWS Access Key ID, Secret Access Key, default region, and default output format. Enter the credentials you obtained in the previous step.
 
 
