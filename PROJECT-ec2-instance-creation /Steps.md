@@ -10,6 +10,8 @@ Create a directory for your Terraform project and create a Terraform configurati
      instance_type = "t2.micro"
    }
 ```
+<img width="1213" height="506" alt="image" src="https://github.com/user-attachments/assets/c1e9ba11-dc54-4761-b7bc-1401fce16600" />
+
 ## Initialize Terraform:
 In your terminal, navigate to the directory containing your Terraform configuration files and run:
 ```
