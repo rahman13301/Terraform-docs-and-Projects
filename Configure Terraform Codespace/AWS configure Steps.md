@@ -1,4 +1,11 @@
-**Goto Github repository > Click on Codesapce > Create code sapce** :
+## Codespace in GitHub:
+
+ It looks like VS code built in feature inside GuitHub repository. It can be accessible for 60 hours free in a month, which include 2 CPUs and 4 GB RAM contained.
+
+**Goto Github repository > Click on Code & Codesapce > Create code sapce** :
+
+<img width="571" height="336" alt="image" src="https://github.com/user-attachments/assets/b838291c-55cb-4aed-878f-1ca8e6576a76" />
+
 
 <img width="761" height="94" alt="image" src="https://github.com/user-attachments/assets/6672284f-022b-4d70-a775-a4e24a0d7b4e" />
 <img width="748" height="109" alt="image" src="https://github.com/user-attachments/assets/829b7512-0df8-44d3-913b-a0d5c2afc99d" />
