@@ -18,7 +18,10 @@
 
 **Once done check the Terraform and AWS configurations as below:**
 
-<img width="822" height="103" alt="image" src="https://github.com/user-attachments/assets/d1b09e85-693c-4d0d-9ace-7e9829754d15" />
+<img width="602" height="85" alt="image" src="https://github.com/user-attachments/assets/53998413-54ad-4101-8c28-69e71f2cf64d" />
+<img width="1231" height="593" alt="image" src="https://github.com/user-attachments/assets/fed4421a-8363-4c44-aa00-9b5332e7c774" />
+
+
 
 ## Setup Terraform for AWS:
 
